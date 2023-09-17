@@ -1,3 +1,6 @@
+These are some of the projects I've done with blender
+
+
 ## MagicLantern
 ![untitled4](https://github.com/Blondie-TheManWithNoName/BlenderModels/assets/58909117/0ca340c6-e187-4324-9eef-15d6f61bb5bc)
 ![untitled5](https://github.com/Blondie-TheManWithNoName/BlenderModels/assets/58909117/1571a696-3100-47e3-8e03-c4889eb69895)
